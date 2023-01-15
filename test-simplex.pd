@@ -1,4 +1,4 @@
-#N canvas 316 -1017 1312 900 12;
+#N canvas 316 63 1312 900 12;
 #X obj 273 398 tabwrite~ vis;
 #X obj 160 230 cos~;
 #X obj 194 230 cos~;
