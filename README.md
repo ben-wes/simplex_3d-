@@ -1,4 +1,4 @@
-# simplex_3d-
+# simplex_3d~
 3D Simplex noise abstraction for Pure Data (Pd) with signal rate input/output (based on Ken Perlin's successor to "Perlin noise")
 
 Patch is mainly adapted from the Java code in https://weber.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf
